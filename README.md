@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Krishna-2992
-- 👀 I’m interested in Fullstack and Blockchain Development
-- 🌱 I’m currently learning Backend development
-- 💞️ I’m looking to collaborate on live projects
+- 👀 I’m a Blockchain Developer and have previous experience with Full Stack Development
+- 🌱 I’m currently learning solidity security threats
+- 💞️ I’m looking for more job opportunities in Web3 space
 - 📫 How to reach me krishnaagrawal2992@gmail.com && (+91)7999609158-just DM me for any sort of conversation😉
 
 <!---
