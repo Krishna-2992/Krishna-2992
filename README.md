@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Krishna-2992
-- 👀 I’m a Blockchain Developer and have previous experience with Full Stack Development
-- 🌱 I’m currently exploring solidity security threats
-- 💞️ I’m looking for more job opportunities in Web3 space
-- 📫 How to reach me krishnaagrawal2992@gmail.com && (+91)7999609158-just DM me for any sort of conversation😉
+👋 Hi there! I'm Krishna, a passionate and experienced Blockchain Developer with a keen interest in exploring the intricacies of Solidity security.
 
-<!---
-Krishna-2992/Krishna-2992 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💼 With a solid background in Full Stack Development, I've successfully transitioned into the Web3 space, where I've developed a deep understanding of NFT, DeFi, and smart contract security. My expertise lies in utilizing cutting-edge technologies such as JavaScript, TypeScript, Solidity, React.js, ethers.js, and Hardhat to deliver innovative and secure blockchain solutions.
+
+🌱 I'm currently engaged in actively researching and exploring the ever-evolving landscape of Solidity security threats, constantly seeking ways to enhance the robustness and resilience of smart contracts.
+
+🚀 Eager to contribute my skills and expertise to a dynamic and forward-thinking team in the Web3 space. If you're seeking a highly motivated and results-driven Blockchain Developer, I'm your ideal candidate.
+
+🌐 Check out my portfolio to see a glimpse of my work: portfolio-site-krishna-2992.vercel.app/
+
+📧 Reach out to me at krishnaagrawal2992@gmail.com or (+91)7999609158 for any queries or collaborations. Let's connect and explore the exciting possibilities of Web3 together! 😉
