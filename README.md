@@ -25,6 +25,6 @@
 
 🚀 Eager to contribute my skills and expertise to a dynamic and forward-thinking team in the Web3 space. If you're seeking a highly motivated and results-driven Blockchain Developer, I'm your ideal candidate.
 
-🌐 Check out my portfolio to see a glimpse of my <a href="https://portfolio-site-krishna-2992.vercel.app/">portfolio</a>
+🌐 Check out my portfolio to see a glimpse of my <a href="https://krishna2992.vercel.app/">portfolio</a>
 
 📧 Reach out to me at krishnaagrawal2992@gmail.com or (+91)7999609158 for any queries or collaborations. Let's connect and explore the exciting possibilities of Web3 together! 😉
