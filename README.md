@@ -1,29 +1,70 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
-<p>Welcome to my page! </br> I'm Krishna, a passionate Blockchain Developer from <img src="https://cdn-icons-png.flaticon.com/128/9906/9906480.png" width="13"/>India</p>
-<h3>Things I code with</h3>
-
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-8DD6F9?style=flat-square&logo=javascript&logoColor=white" /> 
-  <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-46a2f1?style=flat-square&logo=solidity&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="ethers.js" src="https://img.shields.io/badge/-ethers.js-2088FF?style=flat-square&logo=ethers&logoColor=white" />
-  <img alt="Hardhat" src="https://img.shields.io/badge/-Hardhat-1a73e8?style=flat-square&logo=hardhat&logoColor=white" />
-  <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-CC6699?style=flat-square&logo=tailwind&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
-
-💼 With a solid background in Full Stack Development, I've successfully transitioned into the Web3 space, where I've developed a deep understanding of Blockchian concepts alongwith working knowledge of NFT, DeFi, and smart contract security. My expertise lies in utilizing cutting-edge technologies such as JavaScript, TypeScript, Solidity, React.js, ethers.js, and Hardhat to deliver innovative and secure blockchain solutions.
-
-🌱 I'm currently engaged in actively researching and exploring the ever-evolving landscape of Solidity security threats, constantly seeking ways to enhance the robustness and resilience of smart contracts.
-
-🚀 Eager to contribute my skills and expertise to a dynamic and forward-thinking team in the Web3 space. If you're seeking a highly motivated and results-driven Blockchain Developer, I'm your ideal candidate.
-
-🌐 Check out my portfolio to see a glimpse of my <a href="https://krishna2992.vercel.app/">portfolio</a>
-
-📧 Reach out to me at krishnaagrawal2992@gmail.com or (+91)7999609158 for any queries or collaborations. Let's connect and explore the exciting possibilities of Web3 together! 😉
+# Hi, I'm Krishna 👋  
+### Software Developer | AI Engineer | Building Production AI Applications
+I'm a Software Developer with **2+ years of experience** building backend systems and AI-powered applications. My journey started with **Java-based software engineering**, where I worked on scalable backend development, and later transitioned into the AI engineering space — designing and building applications powered by **Large Language Models (LLMs), AI agents, RAG pipelines, and modern AI frameworks**.
+Currently, I'm exploring and contributing to **open-source AI projects**, learning from global developer communities, and building solutions around practical AI adoption.
+---
+## 🚀 What I'm Working On
+- 🤖 Building AI applications using LLMs and agentic workflows  
+- 🔍 Exploring Retrieval-Augmented Generation (RAG) systems  
+- 🛠️ Contributing to open-source AI projects  
+- 📚 Improving AI system design, evaluation, and deployment practices  
+- ⚡ Creating developer-focused tools and automation workflows  
+---
+## 🧠 Technical Skills
+### AI Engineering
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/Large%20Language%20Models-black?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Systems-blue?style=for-the-badge)
+- Large Language Models (LLMs)
+- Prompt Engineering
+- AI Agents
+- Retrieval-Augmented Generation
+- Vector Databases
+- Embeddings
+- AI Application Development
+---
+### Backend Engineering
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+- Java Backend Development
+- REST API Design
+- Microservices
+- System Design Fundamentals
+- Database Design
+---
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge)
+- Git & GitHub
+- Docker
+- Linux
+- Cloud Platforms
+- CI/CD Fundamentals
+---
+## 🌱 Open Source Journey
+I recently started actively collaborating with open-source communities.
+My current focus:
+- Understanding large production codebases
+- Improving AI developer tools
+- Fixing issues and contributing meaningful features
+- Learning engineering practices from experienced maintainers
+Open source is where I aim to grow from using great tools → helping build them.
+---
+## 📊 GitHub Activity
+![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
+---
+## 🎯 Current Goals
+- Become stronger at building reliable AI systems  
+- Contribute consistently to impactful open-source repositories  
+- Improve AI infrastructure and backend engineering skills  
+- Collaborate with engineers solving challenging problems  
+---
+## 🤝 Connect With Me
+💼 LinkedIn: YOUR_LINKEDIN_URL  
+🐙 GitHub: YOUR_GITHUB_URL  
+---
+> Building software that combines strong engineering fundamentals with the power of AI.
