@@ -1,5 +1,6 @@
 # Hi, I'm Krishna 👋  
 ### Software Developer | AI Engineer | Building Production AI Applications
+
 I'm a Software Developer with **2+ years of experience** building backend systems and AI-powered applications. My journey started with **Java-based software engineering**, where I worked on scalable backend development, and later transitioned into the AI engineering space — designing and building applications powered by **Large Language Models (LLMs), AI agents, RAG pipelines, and modern AI frameworks**.
 Currently, I'm exploring and contributing to **open-source AI projects**, learning from global developer communities, and building solutions around practical AI adoption.
 ---
@@ -53,10 +54,6 @@ My current focus:
 - Learning engineering practices from experienced maintainers
 Open source is where I aim to grow from using great tools → helping build them.
 ---
-## 📊 GitHub Activity
-![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
----
 ## 🎯 Current Goals
 - Become stronger at building reliable AI systems  
 - Contribute consistently to impactful open-source repositories  
@@ -64,7 +61,7 @@ Open source is where I aim to grow from using great tools → helping build them
 - Collaborate with engineers solving challenging problems  
 ---
 ## 🤝 Connect With Me
-💼 LinkedIn: YOUR_LINKEDIN_URL  
-🐙 GitHub: YOUR_GITHUB_URL  
+💼 LinkedIn: (https://www.linkedin.com/in/krishna2992)  
+🐙 GitHub: (https://github.com/Krishna-2992/Krishna-2992) 
 ---
 > Building software that combines strong engineering fundamentals with the power of AI.
